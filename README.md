@@ -10,7 +10,7 @@ These guides are living documents that will be continuously updated and refined 
 
 ## Main Sections
 
-📓️ [Table of Contents](guides/README.md)
+📓️ [Table of Contents](guides/README.md) | 📓️ [Archived Guides](guides/archived/README.md)
 
 ## Updated Guides
 
