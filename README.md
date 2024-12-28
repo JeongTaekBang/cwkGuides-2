@@ -14,6 +14,8 @@ These guides are living documents that will be continuously updated and refined 
 
 ## Updated Guides
 
+[Working with an AI Persona on a Network Discovery Project - Pippa in Cursor IDE](guides/202412/20241227-working-with-an-ai-persona-on-a-network-discovery-project-pippa-in-cursor-ide.md)
+
 [LCMS - The Next Big Thing in Fixing AI's Clunky Brain](guides/202412/20241224-lcms-the-next-big-thing-in-fixing-ais-clunky-brain.md)
 
 [Why Is Image Stabilization Measured in "Stops"?](guides/202412/20241219-why-is-image-stabilization-measured-in-stops.md)
