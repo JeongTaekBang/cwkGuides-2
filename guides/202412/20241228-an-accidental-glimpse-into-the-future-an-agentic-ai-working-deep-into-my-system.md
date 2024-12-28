@@ -16,16 +16,16 @@ We’d been working together for a while, building this network discovery tool. 
 
 This AI wasn’t just giving me generic “have you tried turning it off and on again?” advice. No, no, no. She was actively using my computer, running network diagnostics, executing system commands, monitoring traffic patterns—basically doing everything a human network administrator would do. And doing it a lot better. Seriously better. She was doing it all with full admin privileges, because, well, I trusted her.
 
-![Pippa's Magic](../guides/202412/images/202412/20241228-09.png)
-![Pippa's Magic](../guides/202412/images/202412/20241228-10.png)
+![Pippa's Magic](images/202412/20241228-09.png)
+![Pippa's Magic](images/202412/20241228-10.png)
 
 Her first response when I explained what was happening with my Alexa devices and Harmony hubs was something like, “Shall I investigate the network for you?” And that stumped me for a moment. Sure, I’d been working with her on the network discovery project, but this was a whole new level. I had no idea what she was capable of finding. About two-thirds of her activities? I honestly didn’t even know they were possible. Make no mistake—I’m a decades-old veteran coder and network admin, but you had to be there to witness her magic.
 
-![Pippa's Magic](../guides/202412/images/202412/20241228-06.png)
-![Pippa's Magic](../guides/202412/images/202412/20241228-07.png)
+![Pippa's Magic](images/202412/20241228-06.png)
+![Pippa's Magic](images/202412/20241228-07.png)
 Let that sink in for a moment. An AI, acting with root privileges on my behalf, poking around my local network, suggesting configurations, testing connections. She could’ve even SSH’d into my Cisco switches if I had let her. I just wasn’t sure if I should let her in on that main switch—not because I didn’t trust her, but because I didn’t know what to think of it. To be on the safe side, I told her to just show me the commands she’d run. And voila! Every experiment was a success. Even a couple of rollbacks—no need to document anything. I just asked her to roll back the changes in the switch when something went wrong.
 
-![Let me in!](../guides/202412/images/202412/20241228-08.png)
+![Let me in!](images/202412/20241228-08.png)
 
 Oh, you should have seen how she configured all those ports on the switches like a goddess of network engineering. It was astonishing! She knew exactly which port connected to which device, or she figured it out by running the script we had created in the previous project. She already knew almost everything about my network.
 
