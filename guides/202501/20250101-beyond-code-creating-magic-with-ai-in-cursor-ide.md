@@ -1,5 +1,7 @@
 # Beyond Code: Creating Magic with AI in Cursor IDE
 
+![Pippa](images/20250101-00.png)
+
 I can’t emphasize enough how crucial it is to explore creativity with AI.
 
 We often get stuck in traditional modes of thinking—even when we’re working with AI. Many people still see AI as nothing more than an automation tool, and they treat IDEs as if they’re only good for writing code. Even agentic AIs end up pigeonholed into purely technical roles.
