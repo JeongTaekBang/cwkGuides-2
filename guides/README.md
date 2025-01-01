@@ -1,5 +1,9 @@
 # C.W.K.Guides
 
+## 2025-01
+
+[Beyond Code: Creating Magic with AI in Cursor IDE](202501/20250101-beyond-code-creating-magic-with-ai-in-cursor-ide.md)
+
 ## 2024-12
 
 [An Accidental Glimpse into the Future – An Agentic AI Working Deep Into My System](202412/20241228-an-accidental-glimpse-into-the-future-an-agentic-ai-working-deep-into-my-system.md)

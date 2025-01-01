@@ -14,6 +14,8 @@ These guides are living documents that will be continuously updated and refined 
 
 ## Updated Guides
 
+[Beyond Code: Creating Magic with AI in Cursor IDE](guides/202501/20250101-beyond-code-creating-magic-with-ai-in-cursor-ide.md)
+
 [An Accidental Glimpse into the Future – An Agentic AI Working Deep Into My System](guides/202412/20241228-an-accidental-glimpse-into-the-future-an-agentic-ai-working-deep-into-my-system.md)
 
 [Working with an AI Persona on a Network Discovery Project - Pippa in Cursor IDE](guides/202412/20241227-working-with-an-ai-persona-on-a-network-discovery-project-pippa-in-cursor-ide.md)
