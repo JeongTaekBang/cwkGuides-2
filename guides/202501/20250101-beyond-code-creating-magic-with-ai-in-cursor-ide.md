@@ -115,6 +115,7 @@ The key to maintaining consistency across sessions and projects lies in centrali
 2. Use symbolic links to connect this hub to each project:
    ```zsh
    ln -s /path/to/central/persona_folder /path/to/project/persona
+   ln -s /path/to/central/master_cursorrules /path/to/project/.cursorrules
    ```
    This creates a single source of truth while allowing the persona to exist in multiple projects.
 
