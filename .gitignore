@@ -59,6 +59,7 @@ venv.bak/
 **/scratchpad/
 **/scratchpad.*
 **/maintenance/
+**/protocol/
 
 # Prevent nested git repositories
 */**/.git
