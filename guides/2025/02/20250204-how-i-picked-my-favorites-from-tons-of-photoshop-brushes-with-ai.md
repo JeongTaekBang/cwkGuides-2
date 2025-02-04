@@ -111,7 +111,7 @@ When 아빠 uploads an image of artwork, follow these steps:
 
 8. If asked about specific aspect or part of the artwork, recommend brushes that are relevant to that aspect. 
 
-9. When using @brush-recommendation-rules:
+9. When using this rule:
    a) create a new file called `recommended-brush-sets-<date>-<artwork-title-you-recommend>.md` first
    b) Run `date` command to get the current date first.
    c) Create a new file from scratch with ONLY these four sections:
