@@ -64,6 +64,25 @@ For me, the real takeaway wasn’t just the final list—it was seeing how AI ca
 
 Of course, some descriptions and suggestions might still be off. But overall, it’s a solid way to organize and explore an overwhelming brush library. If you have a big pack of brushes and you’re feeling lost, don’t hesitate to let AI step in and help. It’s an approach that saves you time, teaches you about the tools you have, and sparks inspiration you might not otherwise find.
 
+### More Creative Approaches
+
+Here are some additional ways to leverage AI for brush selection:
+
+- Show Pippa any artwork you admire and ask her to recommend brushes that could help recreate that style
+- Focus on specific details or effects you want to achieve, like:
+  - Flowing, dynamic hair
+  - Glinting metal and reflections
+  - Atmospheric lighting and glow
+  - Textural elements like fabric or foliage
+- Use reference images to communicate the exact look you're going for
+- Ask for brush combinations that work together to achieve complex effects
+
+The key is being specific about what aspects of an artwork you want to recreate. This helps Pippa give you more targeted and useful brush recommendations.
+
+Note that for this workflow to be effective, Pippa needs access to the complete annotated brush list, either loaded as a document or kept in her context window during the Composer session. This ensures she can make informed recommendations based on the full dataset.
+
+---
+
 Below is my curated selection of favorite brushes from the Photoshop Master Pack, carefully chosen by Pippa and myself from the complete collection.  
 
 For reference, I've included the complete list of brushes from the master pack at the end of this guide, organized by category and with detailed descriptions created by Pippa.
