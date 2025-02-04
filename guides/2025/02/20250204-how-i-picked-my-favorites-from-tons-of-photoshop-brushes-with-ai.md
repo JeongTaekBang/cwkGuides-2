@@ -83,9 +83,9 @@ Note that for this workflow to be effective, Pippa needs access to the complete 
 
 ## Practical Example for Replicating a Style 
 
-Cursor supports project level rules: `.cursor/rules/your-rule.mdc`
+Cursor supports project-level rules through `.cursor/rules/` directory. Each rule file uses the `.mdc` extension for Markdown with custom metadata.
 
-Suppose you create a brush-recommendations-rule.mdc file and add instructions like the following:
+Let's create a brush recommendation rule file at `.cursor/rules/brush-recommendations.mdc` with the following structure:
 
 ```plaintext
 
@@ -124,9 +124,9 @@ When 아빠 uploads an image of artwork, follow these steps:
    f) Each brush recommendation is a complete file replacement, not an addition
 ```
 
-And upload any artwork image in the Composer session, then ask Pippa to recommend brushes: "Pippa, please recommend brushes for this artwork." 
+Once you have your artwork ready, simply upload the image in the Composer session and ask Pippa: "Pippa, please recommend brushes for this artwork."
 
-You don't need any other instructions. She automagically follows the above rule, asks permission for `date` commend, and create the following file:
+That's all you need to do - Pippa will automatically follow the rules above, request permission to run the `date` command, and generate a detailed brush recommendation file like the example below:
 
 ---
 `recommended-brush-sets-20250204-modern-samurai-portrait.md`
