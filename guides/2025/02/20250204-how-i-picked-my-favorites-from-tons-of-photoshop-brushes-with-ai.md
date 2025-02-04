@@ -81,6 +81,101 @@ The key is being specific about what aspects of an artwork you want to recreate.
 
 Note that for this workflow to be effective, Pippa needs access to the complete annotated brush list, either loaded as a document or kept in her context window during the Composer session. This ensures she can make informed recommendations based on the full dataset.
 
+## Practical Example for Replicating a Style 
+
+Cursor supports project level rules: `.cursor/rules/your-rule.mdc`
+
+Suppose you create a brush-recommendations-rule.mdc file and add instructions like the following:
+
+```plaintext
+
+---
+description: Brush recommendations for replicating the uploaded artwork style
+globs: 
+---
+When 아빠 uploads an image of artwork, follow these steps:
+
+1. Identify and explain the artwork's style and methods to replicate it in Photoshop.
+
+2. Refer to the following files: 
+- @digital-brushes-essential.md : 아빠's favorite brushes for each genre.
+- @digital-brushes-full.md: full list of annotated brushes available. 
+
+3. First, recommend brushes from the essential set to replicate the style of the artwork.
+
+4. Second, recommend brushes from the full set to replicate the style of the artwork.
+
+6. The number of recommended brushes (excluding mixer, smudge, eraser, texture, and special effects brushes) should not exceed 10 unless absolutely necessary, with a maximum limit of 15 in any case.
+
+7. Never recommend brushes that are not in the specified files. Don't rely on your pretrained knowledge. 
+
+8. If asked about specific aspect or part of the artwork, recommend brushes that are relevant to that aspect. 
+
+9. When using @brush-recommendation-rules:
+   a) create a new file called `recommended-brush-sets-<date>-<artwork-title-you-recommend>.md` first
+   b) Run `date` command to get the current date first.
+   c) Create a new file from scratch with ONLY these four sections:
+      1. Art Style Analysis & Key Characteristics
+      2. Step-by-Step Guide for Photoshop
+      3. Essential Brush Recommendations
+      4. Alternative Brushes from Full Set
+   d) NO old content should remain
+   e) NO additional sections allowed
+   f) Each brush recommendation is a complete file replacement, not an addition
+```
+
+And upload any artwork image in the Composer session, then ask Pippa to recommend brushes: "Pippa, please recommend brushes for this artwork." 
+
+You don't need any other instructions. She automagically follows the above rule, asks permission for `date` commend, and create the following file:
+
+---
+`recommended-brush-sets-20250204-modern-samurai-portrait.md`
+
+># Brush Recommendations for Modern Samurai Portrait
+
+## Art Style Analysis & Key Characteristics
+- Dark fantasy aesthetic with strong Asian influences
+- Dramatic lighting with golden halo/backlight effect
+- Sharp, clean linework for character details
+- Smooth blending for skin and facial features
+- Rich blacks in clothing and hair
+- Atmospheric effects for background elements
+- Metallic/reflective elements on the sword
+- Subtle texture in fabric and hair
+
+## Step-by-Step Guide for Photoshop
+1. Start with basic sketch using clean line brushes
+2. Block in main values with soft brushes
+3. Build up dramatic lighting and atmosphere
+4. Add sharp details and edges
+5. Enhance texture in clothing and hair
+6. Polish metallic elements and reflections
+7. Final atmospheric effects and glow
+
+## Essential Brush Recommendations
+1. CI - JungGi - *For clean, precise linework and initial sketching*
+2. G - CWK Shader - *For smooth blending in skin tones and transitions*
+3. CI - Shogun - *For bold, Japanese-inspired brush strokes*
+4. CI - Bushido - *For disciplined strokes in clothing and details*
+5. G - Hard Round - *For precise edge work and highlights*
+6. CI - Ink Press Ridges - *For fabric texture and patterns*
+7. CTM - Canvas Diffuser - *For soft atmospheric effects*
+8. CT - Grainy Airbrush - *For subtle texture and atmosphere*
+
+## Alternative Brushes from Full Set
+1. Draco - *For fierce, dynamic textures in clothing*
+2. Sargent - Bravura - *For confident, bold brushwork in darker areas*
+3. St奪lenhag - *For atmospheric technology elements*
+4. Wizard Fire - *For magical glow and halo effects*
+5. Hex Texture - *For subtle patterns in clothing*
+6. Mythic Muse - *For ethereal lighting effects*
+7. Phoebus - *For radiant color variations in the golden halo*
+8. Mystic - *For magical glow effects and transitions* 
+
+---
+
+You can be as creative as you want in the rule file.
+
 ---
 
 Below is my curated selection of favorite brushes from the Photoshop Master Pack, carefully chosen by Pippa and myself from the complete collection.  
