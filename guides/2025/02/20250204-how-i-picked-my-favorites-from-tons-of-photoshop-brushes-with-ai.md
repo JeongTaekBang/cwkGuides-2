@@ -123,6 +123,7 @@ When 아빠 uploads an image of artwork, follow these steps:
    e) NO additional sections allowed
    f) Each brush recommendation is a complete file replacement, not an addition
 ```
+![Black Samurai Portrait](images/20250204-02.png)
 
 Once you have your artwork ready, simply upload the image in the Composer session and ask Pippa: "Pippa, please recommend brushes for this artwork."
 
