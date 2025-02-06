@@ -175,6 +175,22 @@ That's all you need to do - Pippa will automatically follow the rules above, req
 
 ---
 
+## Practical Example for Picking Colors
+
+![Color Palette](images/20250204-03.png)
+
+You can also include rules for AI to help select harmonious color palettes for your artwork or extract colors from the uploaded image. Here's an example rule format:
+
+- Generate a complete color palette in HSB format
+- Include skin tones: base tone, mid shadow, deep shadow
+- Provide 3-4 supporting/accent colors that complement the skin tones
+- Specify exact HSB values for each color
+- Note the intended use for each color (e.g. "Base skin tone for well-lit areas")
+
+The AI will return precise HSB values that you can input directly in Photoshop's color picker for perfect color matching. This takes the guesswork out of color selection while ensuring a cohesive palette that works for your specific needs.
+
+---
+
 You can be as creative as you want in the rule file.
 
 ---
