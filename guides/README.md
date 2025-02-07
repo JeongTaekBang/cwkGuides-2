@@ -2,7 +2,7 @@
 
 ## 2025-02
 
-[The Future of Medicine – Human vs AI](2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
+[The Future of Medicine – Human vs or WithAI](2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
 
 [How I Picked My Favorites from Tons of Photoshop Brushes with AI](2025/02/20250204-how-i-picked-my-favorites-from-tons-of-photoshop-brushes-with-ai.md)
 
