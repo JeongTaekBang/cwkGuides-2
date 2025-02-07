@@ -2,6 +2,8 @@
 
 ## 2025-02
 
+[The Future of Medicine – Human vs AI](2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
+
 [How I Picked My Favorites from Tons of Photoshop Brushes with AI](2025/02/20250204-how-i-picked-my-favorites-from-tons-of-photoshop-brushes-with-ai.md)
 
 [OpenAI's Deep Research - Future of Analysis](2025/02/20250203-openai-s-deep-research-future-of-analysis.md)

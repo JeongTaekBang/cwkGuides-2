@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[The Future of Medicine – Human vs AI](guides/2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
+
 [How I Picked My Favorites from Tons of Photoshop Brushes with AI](guides/2025/02/20250204-how-i-picked-my-favorites-from-tons-of-photoshop-brushes-with-ai.md)
 
 [OpenAI's Deep Research - Future of Analysis](guides/2025/02/20250203-openai-s-deep-research-future-of-analysis.md)
