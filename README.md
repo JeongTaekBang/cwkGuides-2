@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Drawing with AI Finale - C.W.K. Workflow](guides/2025/02/20250212-drawing-with-ai-finale-c-w-k-workflow.md)
+
 [Why LLMs are Bad at Math: Understanding Their Limitations with Numerical Operations](guides/2025/02/20250211-why-llms-are-bad-at-math-be-extremely-careful-with-their-results-if-critical-math-is-involved.md)
 
 [Deep Research Guide: Color Theory Basics for Digital Painting (Including **CMYK** for Print)](guides/2025/02/20250211-deep-research-guide-hsb-rgb-cmyk.md)

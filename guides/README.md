@@ -2,6 +2,8 @@
 
 ## 2025-02
 
+[Drawing with AI Finale - C.W.K. Workflow](2025/02/20250212-drawing-with-ai-finale-c-w-k-workflow.md)
+
 [Why LLMs are Bad at Math: Understanding Their Limitations with Numerical Operations](2025/02/20250211-why-llms-are-bad-at-math-be-extremely-careful-with-their-results-if-critical-math-is-involved.md)
 
 [Deep Research Guide: Color Theory Basics for Digital Painting (Including **CMYK** for Print)](2025/02/20250211-deep-research-guide-hsb-rgb-cmyk.md)
