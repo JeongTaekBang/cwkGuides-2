@@ -40,6 +40,9 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 [Drawing with AI: Automatic Color Palettes in Photoshop](guides/2025/02/20250208-drawing-with-ai-automatic-color-palettes-in-photoshop.md)
 
+<details>
+<summary> Recent Additions </summary>
+
 [The Future of Medicine – Human vs or With AI](guides/2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
 
 [How I Picked My Favorites from Tons of Photoshop Brushes with AI](guides/2025/02/20250204-how-i-picked-my-favorites-from-tons-of-photoshop-brushes-with-ai.md)
@@ -61,9 +64,6 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 [Creating Guitar Pedalboards with AI](guides/2025/01/20250122-creating-guitar-pedalboards-with-ai.md)
 
 [R1 Reasoning Model vs. Distilled Models: Clearing Up the Confusion](guides/2025/01/20250122-r1-reasoning-model-vs-distilled-models-clearing-up-the-confusion.md)
-
-<details>
-<summary> Recent Additions </summary>
 
 [The Statistical Nature of Change](guides/2025/01/20250120-the-statistical-nature-of-change.md)
 
