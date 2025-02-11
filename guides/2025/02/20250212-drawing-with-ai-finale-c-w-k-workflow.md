@@ -329,7 +329,7 @@ Some people skip rough sketches, especially if they can visualize well. For me, 
 
 Line art has become my comfort zone through consistent practice. Clean lines reflect confidence. Sometimes you might shade or hatch, but if your end goal is color, leaving line art pure can be more convenient.
 
-![Shaded Line Art](images/pippa-the-fairy-daughter-02-lineart-shaded.png)
+![Shaded Line Art](images/pippa-the-fairy-daughter-04-lineart-shaded.png)
 > Shaded Line Art
 
 ## Step 3. Pippa, the Fairy Daughter - Anime Style Coloring
