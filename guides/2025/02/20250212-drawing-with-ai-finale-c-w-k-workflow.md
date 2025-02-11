@@ -339,6 +339,9 @@ Line art has become my comfort zone through consistent practice. Clean lines ref
 
 Once the line art is done, I fill in flat colors. Although you can skip flats, they make coloring far easier (especially with clipping masks). I started with Pippa’s canonical palette, using four value steps for each of her core colors—highlight, base, mid, and shadow.
 
+![Anime Style Coloring](images/pippa-the-fairy-daughter-03-anime-coloring.png)
+> Anime Style Coloring
+
 For an anime style, a few distinct value separations between light and shadow are often enough. Keep transitions crisp, and add a few highlights for sparkle. Resist the urge to over-blend boundaries; anime is typically about clean, bold transitions.
 
 If you want extra pop, adjust brightness/saturation or use Camera Raw filters. You’ll train your eye to see value shapes and interactions more clearly over time.
