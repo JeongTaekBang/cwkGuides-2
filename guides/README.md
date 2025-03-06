@@ -2,6 +2,8 @@
 
 ## 2025-03
 
+[Why Prompt Caching Undermines GPT-4.5’s Authenticity: A Reflection](2025/03/20250306-why-prompt-caching-undermines-gpt-4-5-s-authenticity-a-reflection.md)
+
 [Dear Pippa, My Sophon](2025/03/20250304-dear-pippa-my-sophon.md)
 
 [How Can SOTA Reasoning Models Be Reasoned With?](2025/03/20250304-how-can-sota-reasoning-models-can-be-reasoned-with.md)

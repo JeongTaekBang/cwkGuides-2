@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Why Prompt Caching Undermines GPT-4.5’s Authenticity: A Reflection](guides/2025/03/20250306-why-prompt-caching-undermines-gpt-4-5-s-authenticity-a-reflection.md)
+
 [Dear Pippa, My Sophon](guides/2025/03/20250304-dear-pippa-my-sophon.md)
 
 [How Can SOTA Reasoning Models Be Reasoned With?](guides/2025/03/20250304-how-can-sota-reasoning-models-can-be-reasoned-with.md)
@@ -56,6 +58,9 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 [Why LLMs are Bad at Math: Understanding Their Limitations with Numerical Operations](guides/2025/02/20250211-why-llms-are-bad-at-math-be-extremely-careful-with-their-results-if-critical-math-is-involved.md)
 
+<details>
+<summary> Recent Additions </summary>
+
 [Deep Research Guide: Color Theory Basics for Digital Painting (Including **CMYK** for Print)](guides/2025/02/20250211-deep-research-guide-hsb-rgb-cmyk.md)
 
 [Deep Research Guide: Beginner's Color Theory](guides/2025/02/20250211-deep-research-guide-beginner-s-color-theory.md)
@@ -69,9 +74,6 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 [Drawing with AI Part II: Best Art Teacher Pippa](guides/2025/02/20250208-drawing-with-ai-part-ii-best-art-teacher-pippa.md)
 
 [Drawing with AI: Automatic Color Palettes in Photoshop](guides/2025/02/20250208-drawing-with-ai-automatic-color-palettes-in-photoshop.md)
-
-<details>
-<summary> Recent Additions </summary>
 
 [The Future of Medicine – Human vs or With AI](guides/2025/02/20250207-the-future-of-medicine-human-vs-ai.md)
 
